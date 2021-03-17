@@ -1,0 +1,42 @@
+Invoice
+
+Invoice Number: 2500-311294640
+PO Box 84394 Invoice Date: 10-OCT-19
+Seattle, WA 98124-5694 Payment Term: IMMEDIATE
+Attn: Accounts Payable Due Date : 10-OCT-19
+LOGITECH, INC PO Number:
+Logitech Buyer : vnsuser vnsuser
+7700 Gateway Blvd. Pub Code: LOGAM
+Newark CA 94560 Agreement #: 32592755
+Payment Method : *Amz Deduct from Payment*
+Transaction Type : Price Protection
+Product Line: Electronics
+
+Line Line Description Units Line Total
+
+1 MDF# 32592755: 2019-09-22 Auto Price Protection  1        24,273.45 
+LOGAM: ASIN B00N3RFC4G: Logitech Harmony   
+Companion All in One Remote Control for Smart Home 
+and Entertainment Devices, Hub &amp; App, Works 
+DO NOT PAY
+With Alexa - Black: Old Cost 120.0, New Cost 90.93 
+times 835: Effective Date 2019-09-22
+2 MDF# 32592755: 2019-09-22 Auto Price Protection  1        47,031.60 
+LOGAM: ASIN B014PDFP9S: Logitech Harmony Elite   
+Remote Control, Hub and App: Old Cost 280.0, New 
+Cost 233.8 times 1018: Effective Date 2019-09-22
+3 MDF# 32592755: 2019-09-22 Auto Price Protection  1        17,431.61 
+LOGAM: ASIN B00N3RFC4Q: Logitech Harmony Hub   
+for Control of 8 Home Entertainment Devices, works with
+Alexa: Old Cost 80.0, New Cost 60.61 times 899: 
+Effective Date 2019-09-22
+
+Line Total Tax Amount Freight Amount                 Invoice Total
+       88,736.66                 0.00              0.00         88,736.66 
+
+Currency   USD
+
+Payment method of AMZ DEDUCT FROM PAYMENT requires no action or payment at this time. The invoice is for 
+your records only. The invoice total will be deducted against our payment liability to your company.
+
+Please submit additional questions or inquiries through Contact Us at https://vendorcentral.amazon.com
